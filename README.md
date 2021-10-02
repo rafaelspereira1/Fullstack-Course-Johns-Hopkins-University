@@ -3,4 +3,4 @@ Repository to store coding assignments related to the course :)
 
 # Modules
 
-[Module 02](module2-solution)
+[Module 02](https://rafaelspereira1.github.io/Fullstack-Course-Johns-Hopkins-University/module2-solution/index.html)
