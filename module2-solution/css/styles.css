@@ -9,6 +9,31 @@
 
 .section {
     background-color: rgb(143, 143, 143);
+    border: solid black 1px;
+    padding:10px;
+    margin:5px
+}
+
+.title-chicken {
+    background-color: salmon;
+
+}
+
+.title-beef {
+    background-color: rgb(175, 20, 142);
+
+}
+
+.title-sushi {
+    background-color: lightyellow;
+}
+
+.menu-title {
+    border: 4px solid black;
+    margin-left:70%;
+    padding:10px;
+    text-align: center;
+    
 }
 @media (min-width:992px) {
     .desktop-screen {
