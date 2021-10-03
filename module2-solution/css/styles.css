@@ -6,7 +6,15 @@
 .row {
     width:100%
 }
+
+.section {
+    background-color: rgb(143, 143, 143);
+}
 @media (min-width:992px) {
+    .desktop-screen {
+        float:left;
+        width:33.33%;
+    }  
 
  
 }
