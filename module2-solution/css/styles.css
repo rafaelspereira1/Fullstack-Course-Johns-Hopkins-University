@@ -57,12 +57,15 @@ h1 {
 @media (min-width:768px) and (max-width:991px) {
     .tablet-screen {
         float:left;
-        width:50%
+        width:50%;
 
     }
 
 }
 
 @media (max-width:767px) {
-    
+    .phone-screen {
+    float:left;
+    width:100%;
+    }
 }
