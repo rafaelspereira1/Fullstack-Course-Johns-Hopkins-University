@@ -9,4 +9,6 @@ Repository to store coding assignments related to the course :)
 
 [Module 04](https://rafaelspereira1.github.io/Fullstack-Course-Johns-Hopkins-University/module4-solution/index.html)
 
+[Module 05](https://rafaelspereira1.github.io/Fullstack-Course-Johns-Hopkins-University/module5-solution/index.html)
+
 
